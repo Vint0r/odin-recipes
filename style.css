@@ -1,0 +1,53 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header-recipe {
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.header-image {
+    width: 100%;
+}
+
+.main {
+    background-color: rgb(143, 185, 185);
+    width: 95%;
+    margin: auto;
+}
+
+body {
+    background-image: url(images/egg.jpg);
+    background-size: 100px;
+    background-repeat: repeat;
+    
+}
+
+.main-body {
+    border-radius: 75px;
+    background-color: rgb(181, 226, 226);
+    padding-bottom: 100px;
+}
+
+.main-body p {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    
+}
+
+.header-section {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.list {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.odd-li {
+    background-color: rgb(128, 128, 128, 10%);
+    width: 90%;
+}
